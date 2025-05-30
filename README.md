@@ -1,4 +1,4 @@
-# 🌿 Homegrown Haven
+# 🌿 Homegrown Haven https://homegrownhaven.netlify.app/
 
 A responsive blog-style webpage showcasing popular indoor plants, built with **HTML5**, **CSS Grid**, and **media queries**. This project is a great way to practice modern layout techniques and responsive design.
 
@@ -22,7 +22,7 @@ This is a beginner-friendly frontend project for practicing:
 - HTML5  
 - CSS3  
 - CSS Grid  
-- Media Queries  
+- Media Queries
 - Locomotive Scroll (optional scroll animation support)  
 
 ## 📷 Preview
